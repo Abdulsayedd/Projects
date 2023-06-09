@@ -1,9 +1,11 @@
-#### Recent Projects
+#### My Projects
 
 | Title | Published On |
 | ----- | ------------ |
 | [HospitalManagmentSystem Web Application using ASP.NET](https://github.com/Abdulsayedd/HospitalManagmentSystem2.0) | 2023-05-27 |
-| [Bulk request Google search indexing with API](https://rednafi.com/javascript/bulk_request_google_search_index/) | Fri, 26 May 2023 |
-| [Building a CORS proxy with Cloudflare Workers](https://rednafi.com/javascript/cors_proxy_with_cloudflare_workers/) | Sun, 21 May 2023 |
-| [Fixed-time job scheduling with UNIX 'at' command](https://rednafi.com/misc/fixed_time_task_scheduling_with_at/) | Sun, 14 May 2023 |
-| [Sorting a Django queryset by a custom sequence of an attribute](https://rednafi.com/python/sort_by_a_custom_sequence_in_django/) | Tue, 09 May 2023 |
+| [C# Windows Form Register mini app ](https://github.com/Abdulsayedd/winform-apps/tree/main/Register%20App%231/) | 2023-01-09 |
+| [Java Gpa Calculator and Quiz Test](https://github.com/Abdulsayedd/Quiz-and-Gpa-Calculator/) | 2022-12-17 |
+| [School Project for Project Managment System](https://github.com/Abdulsayedd/Project-Management-System/) | 2022-12-13 |
+| [Polish Notation App using C# Windows Form](https://github.com/Abdulsayedd/PolishNotationApp/) |2021-12-18 |
+| [Grading System Using C# Windows Form](https://github.com/Abdulsayedd/GradingSystem/) | 2021-12-18 |
+| [Flight Schedule App using C# Windows Form](https://github.com/Abdulsayedd/AirPlanes/) | 2021-12-11 |
