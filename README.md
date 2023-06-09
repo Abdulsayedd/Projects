@@ -1,5 +1,5 @@
 <div align="center">
-#### My Projects
+## My Projects
 
 | Title | Published On |
 | ----- | ------------ |
