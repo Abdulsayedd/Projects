@@ -1,3 +1,4 @@
+<div class="center-div">
 #### My Projects
 
 | Title | Published On |
@@ -9,3 +10,12 @@
 | [Polish Notation App using C# Windows Form](https://github.com/Abdulsayedd/PolishNotationApp/) |2021-12-18 |
 | [Grading System Using C# Windows Form](https://github.com/Abdulsayedd/GradingSystem/) | 2021-12-18 |
 | [Flight Schedule App using C# Windows Form](https://github.com/Abdulsayedd/AirPlanes/) | 2021-12-11 |
+
+</div>
+
+.center-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px; 
+}
