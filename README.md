@@ -1,4 +1,4 @@
-<div class="center-div">
+<div align="center">
 #### My Projects
 
 | Title | Published On |
@@ -12,10 +12,3 @@
 | [Flight Schedule App using C# Windows Form](https://github.com/Abdulsayedd/AirPlanes/) | 2021-12-11 |
 
 </div>
-
-.center-div {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 300px; 
-}
