@@ -3,7 +3,7 @@ My Projects
 
 | Title | Published On |
 | ----- | ------------ |
-|[Hotel Managment System Conversion (ADO => EF](https://github.com/Abdulsayedd/Hotel-Management-System) | 2023-07-19 |
+|[Hotel Managment System Conversion (ADO => EF)](https://github.com/Abdulsayedd/Hotel-Management-System) | 2023-07-19 |
 | [HospitalManagmentSystem Web Application using ASP.NET](https://github.com/Abdulsayedd/HospitalManagmentSystem2.0) | 2023-05-27 |
 | [C# Windows Form Register mini app ](https://github.com/Abdulsayedd/winform-apps/tree/main/Register%20App%231/) | 2023-01-09 |
   | [Polish Notation App using C# Windows Form](https://github.com/Abdulsayedd/PolishNotationApp/) |2021-12-18 |
